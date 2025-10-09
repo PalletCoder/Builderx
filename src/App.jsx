@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Loader from './components/loader'
+import Loader from './components/Loader'
 import Home from './pages/Home'
 
 import useFramePreloader from './hooks/useFramePreloader'
